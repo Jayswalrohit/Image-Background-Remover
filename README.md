@@ -9,6 +9,8 @@ script.js
 * Get Your API Key
 
 * How It Works
+
+  
 Removes the background using Remove.bg API.
 Draws a solid blue background on a Canvas.
 Places the background-removed image on top.
